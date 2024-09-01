@@ -14,5 +14,4 @@ app.get('/users', (req, res) => {
 
 app.listen(3301, () => {
     console.log('Server is  Running');
-
 })
